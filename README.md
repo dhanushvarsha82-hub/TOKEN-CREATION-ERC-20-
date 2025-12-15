@@ -23,3 +23,12 @@ After writing the smart contract, it is compiled and deployed using the Remix ID
 Once the contract is successfully deployed, the deployed contract address is obtained and verified using a blockchain explorer. The token is then added to the MetaMask wallet using the contract address, allowing the user to view the token balance and confirm that the token was minted correctly. This step demonstrates how tokens become visible and usable in real wallets.
 
 As part of the task deliverables, the smart contract source code, token details (such as name, symbol, supply, and network), and deployment proof are collected. Deployment proof includes screenshots of the deployed contract, transaction confirmation, and token balance display. These proofs ensure that the task has been completed practically and not just theoretically.
+
+OUTPUT:
+
+OUTPUT:
+
+<img width="950" height="533" alt="Image" src="https://github.com/user-attachments/assets/3df5b11c-d6b5-4992-99b0-8bf375aab750" />
+
+<img width="959" height="481" alt="Image" src="https://github.com/user-attachments/assets/0a4399ee-99f2-4ffd-a759-5fe384ba975b" />
+
